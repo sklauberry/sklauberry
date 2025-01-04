@@ -1,16 +1,16 @@
-## Hi there 👋
+### hey!  welcome to my profile! 💥
+🍃 im a hobbyist developer! since i started learning, i got experience with...
 
-<!--
-**sklauberry/sklauberry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🦀rust
 
-Here are some ideas to get you started:
+- ☕java
+  
+- ⚙️c++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+...and im checking out perl, go & zig!
+
+🍁 did u know? 
+
+- 💖 rust has stolen my heart!
+- 🐌 modder on my free time c:
+- 💬 u can send me messages at any time on discord! (sklauberry)
